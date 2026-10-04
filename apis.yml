@@ -39,7 +39,6 @@ apis:
   - name: ipapi.co
     description: "Find IP address location information"
     humanURL: https://ipapi.co/api/#introduction
-    baseURL: https://ipapi.co/api/#introduction
     tags:
       - Geocoding
     properties:
